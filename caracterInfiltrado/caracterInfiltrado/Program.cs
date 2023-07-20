@@ -1,5 +1,5 @@
-﻿string txtOriginal = "mi nombre es carlos";
-string txtAlterado = "mI nombro es farlos";
+﻿string txtOriginal = "mi nombre es grilloneithor";
+string txtAlterado = "mI nombro es gri110neith0r";
 List<string> caracteres = new List<string>();
 
 for (int i = 0; i < txtOriginal.Length; i++)
