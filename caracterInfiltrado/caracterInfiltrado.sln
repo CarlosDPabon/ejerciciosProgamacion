@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caracterInfiltrado", "caracterInfiltrado\caracterInfiltrado.csproj", "{9BA1B671-DCFA-44CB-8206-2B9D4FD26F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA1B671-DCFA-44CB-8206-2B9D4FD26F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA1B671-DCFA-44CB-8206-2B9D4FD26F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA1B671-DCFA-44CB-8206-2B9D4FD26F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA1B671-DCFA-44CB-8206-2B9D4FD26F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB7AC352-B8F5-44B3-B7E8-3178345D32BF}
+	EndGlobalSection
+EndGlobal
